@@ -1801,6 +1801,14 @@ const quotes = [
 	{
 		text: "Everyone is born beautiful, some people just let the world turn them into something ugly.",
 		author: "Wiz Khalifa"
-	}
+	},
+		{
+		text: "Everyone is born beautiful, some people just let the world turn them into something ugly.",
+		author: "Wiz Khalifa"
+	},
 	
+		{
+		text: "Everyone is born beautiful, some people just let the world turn them into something ugly.The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.",
+		author: "Henry Ford"
+	}
 ];
