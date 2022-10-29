@@ -1801,6 +1801,10 @@ const quotes = [
 	{
 		text: "Everyone is born beautiful, some people just let the world turn them into something ugly.",
 		author: "Wiz Khalifa"
-	}
+	},
+		{
+		text: "Never let the fear of striking out keep you from playing the game.",
+		author: "Babe Ruth"
+	},
 	
 ];
